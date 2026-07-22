@@ -1,1 +1,1 @@
-Adiciona nova tela de welcome para seleção de tenant
+detecçao de banheiro
