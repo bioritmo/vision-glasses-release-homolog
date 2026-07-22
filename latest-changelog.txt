@@ -1,1 +1,1 @@
-detecçao de banheiro
+Melhorias na detecção de banheiros
